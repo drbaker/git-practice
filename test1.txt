@@ -1,0 +1,5 @@
+This is a test file for Git practice
+
+Nothing actually important here, just some text
+
+More random text
